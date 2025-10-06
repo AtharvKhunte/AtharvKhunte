@@ -111,11 +111,18 @@
 <img src="assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
 <br/><br/>
 
+
 <!-- FOOTER -->
 <p align="center">
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-  ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  <img src="./assets/bottom/ANDROID.svg" alt="Android" width=55/>&nbsp;
+  <img src="./assets/bottom/KALI.svg" alt="KaliLinux" width=55/>&nbsp;
+  <img src="./assets/bottom/ANDROIDSTUDIO.svg" alt="Android Studio" width=55/>&nbsp;
+  <img src="./assets/bottom/VM.svg" alt="VirtualBox" width=55/>&nbsp;
+  <img src="./assets/bottom/DOCKER.svg" alt="Docker" width=55/>&nbsp;
 </p>
+<!-- END OF FOOTER -->
+
+
+
+
+
