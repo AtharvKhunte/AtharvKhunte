@@ -1,39 +1,47 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./assets/profile-picture.png" width="220" alt="Profile Picture - Atharv Khunte"/>
+  <img src="assets/profile-picture.png" width="220" alt="Profile Picture - Atharv Khunte"/>
 </p>
 <h1 align="center">Atharv Khunte</h1>
 <p align="center">
-  <a href="mailto:atharv.khunte@gmail.com">atharv.khunte@gmail.com</a> • +91-8329564345 •
-  <a href="https://www.linkedin.com/in/atharv-khunte-83b5252b2">LinkedIn</a> •
-  <a href="https://github.com/AtharvKhunte">GitHub</a>
+  <a href="mailto:atharv.khunte@gmail.com">
+    <img src="https://img.shields.io/badge/Email-atharv.khunte@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/atharv-khunte-83b5252b2">
+    <img src="https://img.shields.io/badge/LinkedIn-AtharvKhunte-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AtharvKhunte">
+    <img src="https://img.shields.io/badge/GitHub-AtharvKhunte-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-<!-- END OF HEADER -->
 
 <!-- ABOUT ME -->
-<img src="./assets/visual-elements/about-me.gif" width="30" align="center" alt="About me icon"/>&nbsp;**ABOUT ME**
+<img src="assets/visual-elements/about-me.gif" width="30" align="center" alt="About me icon"/>&nbsp;**ABOUT ME**
 
 - 👨‍🎓 4th-year B.Tech — Computer Science & Business Systems (JSPM RSCOE)  
 - 📱 Android developer — Java, Kotlin, Jetpack Compose, Material UI  
 - 🛡️ Security & privacy enthusiast — pfSense, Suricata, Fail2Ban, Kibana  
-- ⚙️ Interested in building secure, user-centric mobile apps and automation for monitoring & remediation
+- ⚙️ Interested in building secure, user-centric mobile apps and automation for monitoring & remediation  
 
-> [!IMPORTANT]  
-> I sign commits where possible and follow secure development practices.
+> [!IMPORTANT] I sign commits where possible and follow secure development practices.
+
+---
 
 <!-- LINE -->
-<img src="./assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
+<img src="assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
 <br/><br/>
 
 <!-- PROJECTS -->
-<img src="./assets/visual-elements/projects.gif" width=30 align="center" alt="Projects icon"/>&nbsp;**PROJECTS**
+<img src="assets/visual-elements/projects.gif" width=30 align="center" alt="Projects icon"/>&nbsp;**PROJECTS**
 
 <details>
   <summary><strong>TrueLevel — Digital Bubble Level App</strong></summary>
   <ul>
     <li>Sensor-driven leveling app with smooth real-time tilt detection, calibration, and unit toggles.</li>
     <li>Focus on a clean, responsive UI and low-latency sensor updates.</li>
-    <li>Tech: Java, Android SDK, Material Design, Android Sensors API.</li>
+    <li>Tech: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Material Design](https://img.shields.io/badge/Material%20Design-6200EE?style=flat&logo=materialdesign&logoColor=white)</li>
   </ul>
 </details>
 
@@ -42,7 +50,7 @@
   <ul>
     <li>Complete authentication flow: sign-up/sign-in, validation, error handling, and profile management.</li>
     <li>Secure local storage of credentials and profile data using Android best practices.</li>
-    <li>Tech: Java, Android SDK, BottomSheetDialogFragment, SharedPreferences.</li>
+    <li>Tech: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)</li>
   </ul>
 </details>
 
@@ -51,7 +59,7 @@
   <ul>
     <li>Privacy-first Android SDK to simplify secure data handling, consent management, and encryption.</li>
     <li>Modular API design for easy integration into third-party apps.</li>
-    <li>Tech: Kotlin, Jetpack libraries, Android Security & Encryption APIs.</li>
+    <li>Tech: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)</li>
   </ul>
 </details>
 
@@ -65,47 +73,49 @@
   </ul>
 </details>
 
+---
+
 <!-- LINE -->
-<img src="./assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
+<img src="assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
 <br/><br/>
 
 <!-- SKILLS -->
-<img src="./assets/visual-elements/skills.gif" width ="30" align="center" alt="Skills icon"/>&nbsp; **SKILLS**
+<img src="assets/visual-elements/skills.gif" width ="30" align="center" alt="Skills icon"/>&nbsp; **SKILLS**
 
-*Programming & Mobile*
-<img src="./assets/skills/KOTLIN.svg" alt="Kotlin" width=36/>&nbsp;
-<img src="./assets/skills/JAVA.svg" alt="Java" width=36/>&nbsp;
-<img src="./assets/skills/COMPOSE.svg" alt="Jetpack Compose" width=36/>&nbsp;
-<img src="./assets/skills/REACT.svg" alt="React" width=36/>&nbsp;
+**Programming & Mobile**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-*Security & Networking*
-<img src="./assets/skills/PFSENSE.svg" alt="pfSense" width=36/>&nbsp;
-<img src="./assets/skills/SURICATA.svg" alt="Suricata" width=36/>&nbsp;
-<img src="./assets/skills/FAIL2BAN.svg" alt="Fail2Ban" width=36/>&nbsp;
-<img src="./assets/skills/KIBANA.svg" alt="Kibana" width=36/>&nbsp;
+**Security & Networking**  
+![pfSense](https://img.shields.io/badge/pfSense-0096D6?style=flat&logo=pfSense&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-FF6F61?style=flat&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-4B0082?style=flat&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 
-*DevOps & Tools*
-<img src="./assets/skills/DOCKER.svg" alt="Docker" width=36/>&nbsp;
-<img src="./assets/skills/GIT.svg" alt="Git" width=36/>&nbsp;
-<img src="./assets/skills/GITHUB_ACTIONS.svg" alt="GitHub Actions" width=36/>&nbsp;
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-*Databases*
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<img src="./assets/skills/MYSQL.svg" alt="MySQL" width=36/>&nbsp;
-
-*Other*
+**Other**  
 - Problem solving • Agile teamwork • Secure coding practices
 
+---
+
 <!-- LINE -->
-<img src="./assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
+<img src="assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
 <br/><br/>
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="./assets/bottom/ANDROID.svg" alt="Android" width=55/>&nbsp;
-  <img src="./assets/bottom/KALI.svg" alt="KaliLinux" width=55/>&nbsp;
-  <img src="./assets/bottom/ANDROIDSTUDIO.svg" alt="Android Studio" width=55/>&nbsp;
-  <img src="./assets/bottom/VM.svg" alt="VirtualBox" width=55/>&nbsp;
-  <img src="./assets/bottom/DOCKER.svg" alt="Docker" width=55/>&nbsp;
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+  ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 </p>
-<!-- END OF FOOTER -->
