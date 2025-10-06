@@ -76,7 +76,7 @@
 <img src="./assets/skills/KOTLIN.svg" alt="Kotlin" width=36/>&nbsp;
 <img src="./assets/skills/JAVA.svg" alt="Java" width=36/>&nbsp;
 <img src="./assets/skills/COMPOSE.svg" alt="Jetpack Compose" width=36/>&nbsp;
-<img src="./assets/skills/FIREBASE.svg" alt="Firebase" width=36/>&nbsp;
+<img src="./assets/skills/REACT.svg" alt="React" width=36/>&nbsp;
 
 *Security & Networking*
 <img src="./assets/skills/PFSENSE.svg" alt="pfSense" width=36/>&nbsp;
@@ -89,8 +89,8 @@
 <img src="./assets/skills/GIT.svg" alt="Git" width=36/>&nbsp;
 <img src="./assets/skills/GITHUB_ACTIONS.svg" alt="GitHub Actions" width=36/>&nbsp;
 
-*Databases & Data*
-<img src="./assets/skills/SQL.svg" alt="SQL" width=36/>&nbsp;
+*Databases*
+
 <img src="./assets/skills/MYSQL.svg" alt="MySQL" width=36/>&nbsp;
 
 *Other*
@@ -103,9 +103,9 @@
 <!-- FOOTER -->
 <p align="center">
   <img src="./assets/bottom/ANDROID.svg" alt="Android" width=55/>&nbsp;
-  <img src="./assets/bottom/DEBIAN.svg" alt="Debian" width=55/>&nbsp;
-  <img src="./assets/bottom/GPG.svg" alt="GPG" width=55/>&nbsp;
-  <img src="./assets/bottom/VIM.svg" alt="Vim" width=55/>&nbsp;
+  <img src="./assets/bottom/KALI.svg" alt="KaliLinux" width=55/>&nbsp;
+  <img src="./assets/bottom/ANDROIDSTUDIO.svg" alt="Android Studio" width=55/>&nbsp;
+  <img src="./assets/bottom/VM.svg" alt="VirtualBox" width=55/>&nbsp;
   <img src="./assets/bottom/DOCKER.svg" alt="Docker" width=55/>&nbsp;
 </p>
 <!-- END OF FOOTER -->
