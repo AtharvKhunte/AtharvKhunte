@@ -114,12 +114,14 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="./assets/bottom/ANDROID.svg" alt="Android" width=55/>&nbsp;
-  <img src="./assets/bottom/KALI.svg" alt="KaliLinux" width=55/>&nbsp;
-  <img src="./assets/bottom/ANDROIDSTUDIO.svg" alt="Android Studio" width=55/>&nbsp;
-  <img src="./assets/bottom/VM.svg" alt="VirtualBox" width=55/>&nbsp;
-  <img src="./assets/bottom/DOCKER.svg" alt="Docker" width=55/>&nbsp;
+  <img src="./assets/bottom/ANDROID.svg" alt="Android" width=55 style="margin: 0 10px;"/>
+  <img src="./assets/bottom/KALI.svg" alt="KaliLinux" width=55 style="margin: 0 10px;"/>
+  <img src="./assets/bottom/ANDROIDSTUDIO.svg" alt="Android Studio" width=55 style="margin: 0 10px;"/>
+  <img src="./assets/bottom/VM.svg" alt="VirtualBox" width=55 style="margin: 0 10px;"/>
+  <img src="./assets/bottom/DOCKER.svg" alt="Docker" width=55 style="margin: 0 10px;"/>
 </p>
+
+
 <!-- END OF FOOTER -->
 
 
