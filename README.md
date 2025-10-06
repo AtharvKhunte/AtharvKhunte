@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="assets/profile-picture.png" width="220" alt="Profile Picture - Atharv Khunte"/>
+  <img src="assets/profile_image.png" width="220" alt="Profile Picture - Atharv Khunte"/>
 </p>
 <h1 align="center">Atharv Khunte</h1>
 <p align="center">
@@ -25,9 +25,9 @@
 - 🛡️ Security & privacy enthusiast — pfSense, Suricata, Fail2Ban, Kibana  
 - ⚙️ Interested in building secure, user-centric mobile apps and automation for monitoring & remediation  
 
-> [!IMPORTANT] I sign commits where possible and follow secure development practices.
 
----
+
+
 
 <!-- LINE -->
 <img src="assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
@@ -73,7 +73,7 @@
   </ul>
 </details>
 
----
+
 
 <!-- LINE -->
 <img src="assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
@@ -114,13 +114,12 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="./assets/bottom/ANDROID.svg" alt="Android" width=55 style="margin: 0 10px;"/>
-  <img src="./assets/bottom/KALI.svg" alt="KaliLinux" width=55 style="margin: 0 10px;"/>
-  <img src="./assets/bottom/ANDROIDSTUDIO.svg" alt="Android Studio" width=55 style="margin: 0 10px;"/>
-  <img src="./assets/bottom/VM.svg" alt="VirtualBox" width=55 style="margin: 0 10px;"/>
-  <img src="./assets/bottom/DOCKER.svg" alt="Docker" width=55 style="margin: 0 10px;"/>
+  <img src="./assets/bottom/ANDROID.svg" alt="Android" width=55/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/bottom/KALI.svg" alt="KaliLinux" width=55/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/bottom/ANDROIDSTUDIO.svg" alt="Android Studio" width=55/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/bottom/VM.svg" alt="VirtualBox" width=55/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/bottom/DOCKER.svg" alt="Docker" width=55/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 
 <!-- END OF FOOTER -->
 
