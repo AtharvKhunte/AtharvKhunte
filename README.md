@@ -41,7 +41,12 @@
   <ul>
     <li>Sensor-driven leveling app with smooth real-time tilt detection, calibration, and unit toggles.</li>
     <li>Focus on a clean, responsive UI and low-latency sensor updates.</li>
-    <li>Tech: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Material Design](https://img.shields.io/badge/Material%20Design-6200EE?style=flat&logo=materialdesign&logoColor=white)</li>
+    <li>
+      Tech:
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java Badge" style="margin-right:6px;"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android Badge" style="margin-right:6px;"/>
+      <img src="https://img.shields.io/badge/Material%20Design-6200EE?style=flat&logo=materialdesign&logoColor=white" alt="Material Design Badge"/>
+    </li>
   </ul>
 </details>
 
@@ -50,7 +55,11 @@
   <ul>
     <li>Complete authentication flow: sign-up/sign-in, validation, error handling, and profile management.</li>
     <li>Secure local storage of credentials and profile data using Android best practices.</li>
-    <li>Tech: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)</li>
+    <li>
+      Tech:
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java Badge" style="margin-right:6px;"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android Badge"/>
+    </li>
   </ul>
 </details>
 
@@ -59,7 +68,11 @@
   <ul>
     <li>Privacy-first Android SDK to simplify secure data handling, consent management, and encryption.</li>
     <li>Modular API design for easy integration into third-party apps.</li>
-    <li>Tech: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)</li>
+    <li>
+      Tech:
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin Badge" style="margin-right:6px;"/>
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white" alt="Jetpack Compose Badge"/>
+    </li>
   </ul>
 </details>
 
@@ -70,6 +83,15 @@
     <li>Automated malicious IP blocking using parsed Suricata alerts + Fail2Ban + UFW.</li>
     <li>Log aggregation (Suricata EVE JSON, Fail2Ban, /var/log/auth.log) with Filebeat → Kibana dashboards.</li>
     <li>Edge firewall: pfSense integration for network-level enforcement and visibility.</li>
+    <li>
+      Tech:
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux Badge" style="margin-right:6px;"/>
+      <img src="https://img.shields.io/badge/pfSense-212121?style=flat&logo=freebsd&logoColor=white" alt="pfSense Badge" style="margin-right:6px;"/>
+      <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat&logoColor=white" alt="Suricata Badge" style="margin-right:6px;"/>
+      <img src="https://img.shields.io/badge/Fail2Ban-EE3D2C?style=flat&logoColor=white" alt="Fail2Ban Badge" style="margin-right:6px;"/>
+      <img src="https://img.shields.io/badge/Filebeat-005571?style=flat&logo=elasticstack&logoColor=white" alt="Filebeat Badge" style="margin-right:6px;"/>
+      <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white" alt="Kibana Badge"/>
+    </li>
   </ul>
 </details>
 
