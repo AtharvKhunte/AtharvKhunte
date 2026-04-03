@@ -1,7 +1,4 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="assets/profile_image.png" width="220" alt="Profile Picture - Atharv Khunte"/>
-</p>
 <h1 align="center">Atharv Khunte</h1>
 <p align="center">
   <a href="mailto:atharv.khunte@gmail.com">
@@ -17,17 +14,10 @@
   </a>
 </p>
 
-<!-- ABOUT ME -->
-<img src="assets/visual-elements/about-me.gif" width="30" align="center" alt="About me icon"/>&nbsp;**ABOUT ME**
+<!-- PROFESSIONAL SUMMARY -->
+<img src="assets/visual-elements/about-me.gif" width="30" align="center" alt="About me icon"/>&nbsp;**PROFESSIONAL SUMMARY**
 
-- 👨‍🎓 4th-year B.Tech — Computer Science & Business Systems (JSPM RSCOE)  
-- 📱 Android developer — Java, Kotlin, Jetpack Compose, Material UI  
-- 🛡️ Security & privacy enthusiast — pfSense, Suricata, Fail2Ban, Kibana  
-- ⚙️ Interested in building secure, user-centric mobile apps and automation for monitoring & remediation  
-
-
-
-
+Motivated and disciplined Computer Science undergraduate with strong technical expertise in Android application development and cybersecurity. Experienced in building user-centric mobile apps and security automation systems that integrate network IDS/IPS, log aggregation, and automated response. Comfortable across full-stack mobile workflows—UI, secure authentication, local and cloud data handling, and observability—with a strong interest in digital technologies, data privacy, and cybersecurity. Agile team player with hands-on experience implementing security solutions and monitoring systems in production-like environments.
 
 <!-- LINE -->
 <img src="assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
@@ -64,14 +54,17 @@
 </details>
 
 <details>
-  <summary><strong>DataTrust SDK (Ongoing)</strong></summary>
+  <summary><strong>DataTrust SDK – Privacy-as-a-Service Android SDK (Ongoing)</strong></summary>
   <ul>
-    <li>Privacy-first Android SDK to simplify secure data handling, consent management, and encryption.</li>
-    <li>Modular API design for easy integration into third-party apps.</li>
+    <li>Developed a modular Android SDK in Kotlin for managing user consent and privacy preferences.</li>
+    <li>Implemented multi-category consent system with customizable UI and persistent storage.</li>
+    <li>Integrated asynchronous data export and deletion requests using Kotlin coroutines.</li>
+    <li>Currently enhancing the SDK with advanced consent controls, audit logging, and scalable architecture.</li>
     <li>
       Tech:
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin Badge" style="margin-right:6px;"/>
-      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white" alt="Jetpack Compose Badge"/>
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white" alt="Jetpack Compose Badge" style="margin-right:6px;"/>
+      <img src="https://img.shields.io/badge/Android%20Security-3DDC84?style=flat&logo=android&logoColor=white" alt="Android Security Badge"/>
     </li>
   </ul>
 </details>
@@ -95,8 +88,6 @@
   </ul>
 </details>
 
-
-
 <!-- LINE -->
 <img src="assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
 <br/><br/>
@@ -108,7 +99,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 **Security & Networking**  
 ![pfSense](https://img.shields.io/badge/pfSense-0096D6?style=flat&logo=pfSense&logoColor=white)
@@ -133,7 +124,6 @@
 <img src="assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
 <br/><br/>
 
-
 <!-- FOOTER -->
 <p align="center">
   <img src="./assets/bottom/ANDROID.svg" alt="Android" width=55/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -144,8 +134,3 @@
 </p>
 
 <!-- END OF FOOTER -->
-
-
-
-
-
