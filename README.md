@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Atharv Khunte</h1>
 <p align="center">
-  <a href="mailto:atharv.khunte@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#bddcc9d5dccfcb93d6d5c8d3c9d8fddad0dcd4d193ded2d0">
     <img src="https://img.shields.io/badge/Email-atharv.khunte@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
@@ -14,10 +14,8 @@
   </a>
 </p>
 
-<!-- PROFESSIONAL SUMMARY -->
-<img src="assets/visual-elements/about-me.gif" width="30" align="center" alt="About me icon"/>&nbsp;**PROFESSIONAL SUMMARY**
-
-Motivated and disciplined Computer Science undergraduate with strong technical expertise in Android application development and cybersecurity. Experienced in building user-centric mobile apps and security automation systems that integrate network IDS/IPS, log aggregation, and automated response. Comfortable across full-stack mobile workflows—UI, secure authentication, local and cloud data handling, and observability—with a strong interest in digital technologies, data privacy, and cybersecurity. Agile team player with hands-on experience implementing security solutions and monitoring systems in production-like environments.
+<!-- INTRO -->
+Android developer & cybersecurity enthusiast building secure, user-centric mobile apps and security automation systems.
 
 <!-- LINE -->
 <img src="assets/visual-elements/line-neon.gif" width="100%" alt="Horizontal neon line"/>
@@ -130,7 +128,4 @@ Motivated and disciplined Computer Science undergraduate with strong technical e
   <img src="./assets/bottom/KALI.svg" alt="KaliLinux" width=55/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/bottom/ANDROIDSTUDIO.svg" alt="Android Studio" width=55/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/bottom/VM.svg" alt="VirtualBox" width=55/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/bottom/DOCKER.svg" alt="Docker" width=55/>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<!-- END OF FOOTER -->
+  <img src="./assets/bottom/DOCKER.svg" alt="Docker" width=55/>&nbsp;&n
